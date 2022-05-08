@@ -1,0 +1,50 @@
+<DATA>
+
+	<ROW>
+		<book_id>1</book_id>
+		<title>Harry Potter and the Half-Blood Prince (Harry Potter  #6)</title>
+		<author>J.K. Rowling</author>
+		<rating>4.57</rating>
+		<total_pages>652</total_pages>
+		<isbn>439785960</isbn>
+		<publisher>Scholastic Inc.</publisher>
+		<created_at>NULL</created_at>
+		<updated_at>NULL</updated_at>
+	</ROW>
+
+	<ROW>
+		<book_id>2</book_id>
+		<title>Harry Potter and the Chamber of Secrets (Harry Potter  #2)</title>
+		<author>J.K. Rowling</author>
+		<rating>4.42</rating>
+		<total_pages>352</total_pages>
+		<isbn>439554896</isbn>
+		<publisher>Scholastic Inc.</publisher>
+		<created_at>NULL</created_at>
+		<updated_at>NULL</updated_at>
+	</ROW>
+
+	<ROW>
+		<book_id>3</book_id>
+		<title>Harry Potter and the Order of the Phoenix (Harry Potter  #5)</title>
+		<author>J.K. Rowling</author>
+		<rating>4.49</rating>
+		<total_pages>870</total_pages>
+		<isbn>439358078</isbn>
+		<publisher>Scholastic Inc.</publisher>
+		<created_at>NULL</created_at>
+		<updated_at>NULL</updated_at>
+	</ROW>
+
+	<ROW>
+		<book_id>4</book_id>
+		<title>Harry Potter and the Prisoner of Azkaban (Harry Potter  #3)</title>
+		<author>J.K. Rowling</author>
+		<rating>4.56</rating>
+		<total_pages>435</total_pages>
+		<isbn>439655480</isbn>
+		<publisher>Scholastic Inc.</publisher>
+		<created_at>NULL</created_at>
+		<updated_at>NULL</updated_at>
+	</ROW>
+</DATA>
